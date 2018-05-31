@@ -1,0 +1,9 @@
+{
+  "name": "ctci_java-script",
+  "version": "0.0.0",
+  "description": "CTCI_JavaScript",
+  "main": "app.js",
+  "author": {
+    "name": "Kevin"
+  }
+}
